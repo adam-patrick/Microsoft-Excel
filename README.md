@@ -56,7 +56,7 @@ Use Visual Basic coding to create another worksheet with data from several other
 
 Sample Image:
 
-![Yearly Report}(https://github.com/adam-patrick/Microsoft-Excel/blob/images/yearly%20report.PNG "Yearly Report")
+![Yearly Report](https://github.com/adam-patrick/Microsoft-Excel/blob/images/yearly%20report.PNG "Yearly Report")
 
 
 ***
