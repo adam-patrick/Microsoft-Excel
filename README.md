@@ -2,7 +2,7 @@
 
 Source for all Microsoft Excel-specific work, projects, training, and more.
 
-[Project #1 - Add Header Macro](https://github.com/adam-patrick/Microsoft-Excel/blob/Training/AddHeader%20Macro.xlsm)
+## [Project #1 - Add Header Macro](https://github.com/adam-patrick/Microsoft-Excel/blob/Training/AddHeader%20Macro.xlsm)
 
 A simple worksheet that uses a push-button macro that automatically adds specific headers to a list.
 
