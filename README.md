@@ -8,7 +8,7 @@ A simple worksheet that uses a push-button macro that automatically adds specifi
 
 Sample Image:
 
-[AddHeaders Macro](https://github.com/adam-patrick/Microsoft-Excel/blob/images/push%20button%20macro.PNG "AH Macro")
+![AddHeaders Macro](https://github.com/adam-patrick/Microsoft-Excel/blob/images/push%20button%20macro.PNG "AH Macro")
 
 
 ***
