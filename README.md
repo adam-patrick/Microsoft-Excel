@@ -26,3 +26,15 @@ Sample Image:
 ***
 
 
+## [Project # 3 - VBA Macro for Multiple Worksheet Formatting using Visual Basic](https://github.com/adam-patrick/Microsoft-Excel/blob/Training/VBA%20Macro%20for%20Multiple%20Worksheet%20Formating.xlsm)
+
+Worksheet that utilized Visual Basic coding to formating 4 worksheets at the same time.
+
+Sample Image:
+
+![VBA Multi](https://github.com/adam-patrick/Microsoft-Excel/blob/images/multi-worksheet%20formating.PNG "VBA Multi")
+
+
+***
+
+
