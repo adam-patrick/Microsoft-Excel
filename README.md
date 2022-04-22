@@ -13,3 +13,16 @@ Sample Image:
 
 ***
 
+
+## [Project # 2 - Sort by Category Macro with VBA](https://github.com/adam-patrick/Microsoft-Excel/blob/Training/Sort%20By%20Category%20Macro.xlsm)
+
+Simple worksheet that sorts the categories of a list by specific category as determined by the Visual Basic code script.
+
+Sample Image:
+
+![Sort by Category](https://github.com/adam-patrick/Microsoft-Excel/blob/images/sory%20by%20category.PNG "Sort by Cat")
+
+
+***
+
+
