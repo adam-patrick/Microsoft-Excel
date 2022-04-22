@@ -38,3 +38,15 @@ Sample Image:
 ***
 
 
+## [Project # 4 - Automating Excel Functions with VBA](https://github.com/adam-patrick/Microsoft-Excel/blob/Training/Automating%20Excel%20Functions%20with%20VBA.xlsm)
+
+Worksheet that uses Visual Basic to automatically sum up specific information across multiple worksheets.
+
+Sample Image:
+
+![Auto Fun VBA](https://github.com/adam-patrick/Microsoft-Excel/blob/images/Automating%20Functions.PNG "Auto Fun VBA")
+
+
+***
+
+
